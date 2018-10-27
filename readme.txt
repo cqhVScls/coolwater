@@ -5,3 +5,4 @@ git add file
 git status
 git diff file.txt
 git commit -m 'hello'
+hello
