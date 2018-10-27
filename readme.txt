@@ -7,3 +7,4 @@ git diff file.txt
 git commit -m 'hello'
 hello
 help
+halo
